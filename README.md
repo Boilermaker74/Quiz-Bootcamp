@@ -68,10 +68,10 @@ While Hovering:
 
 ![zhoveron](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/fae8b4e6-589e-4bcc-974d-b586c4585773)
 
-The “Clear high score” button removes the scores from the list and local memory.
+The “Clear high score” button removes the scores from the "High score list" and local memory.
 
 ![zcleared high scores](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/1860844d-487b-4266-8865-d5eb454353cb)
 
-The view high score button at the top left of this screen returns the player to the “high score list”
+The view high score button at the top left of this screen returns the player to the “High score list”
 
 Thank You!
