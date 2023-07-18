@@ -59,7 +59,14 @@ The players initials and scores are saved in local storage under the values dogs
 
 All buttons change color when they are hovered over.
 
+Before Hover:
+
+[Before Hover:](https://boilermaker74.github.io/)
+
 ![zhoveroff](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e1691c26-9b2b-40af-87ff-43b54f355a0c)
+
+While Hovering:
+
 ![zhoveron](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/fae8b4e6-589e-4bcc-974d-b586c4585773)
 
 The “Clear high score” button removes the scores from the list and local memory.
