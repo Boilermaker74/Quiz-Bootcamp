@@ -1,7 +1,5 @@
 # 📖 Use Command-Line Commands to Create Directory and File
 This is the final project
-![Getting Started]
-(images/img.jpg)
 
 ![Alt text](image.png)
 
