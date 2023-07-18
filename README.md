@@ -28,7 +28,7 @@ At the bottom of the answers in the footer is the displayed correction to the re
 
 ![zcorrect](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/57514608-a626-46e2-a499-85f40ee56d39)
 
-The footer with the "wrong or correct" response to the players’s answer stays visible until the user removes the pointer from an answer button and returns the pointer back to the answer button.
+The footer with the "wrong or correct" response to the players’s answer stays visible until the player removes the pointer from an answer button and returns the pointer back to the answer button.
 
 When the timer expires the header displays game over.   Added an if statement so the timer can never drop below zero.
 
@@ -37,12 +37,12 @@ When the player completes the quiz, the quiz displays the message all done, disp
 ![zGame over screen time over](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e4e9c1d2-2809-43a3-90d9-d8aac20374d3)
 
 
-If the player tries to enter more or less then 2 symbols for their initials, the quiz responds with a  message telling the player to enter only two initials and displays the initials the user tried to enter.
+If the player tries to enter more or less then 2 symbols for their initials, the quiz responds with a  message telling the player to enter only two initials and displays the initials the player tried to enter.
 
 
 ![z3 initials](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/f9b00d37-01d5-4e4f-8199-fc01ec592457)
 
-Once player enters their initials a high score list is generated and each time a player enters your initials they are placed at the top of the list. 
+Once player enters their initials a high score list is generated and each time a player enters their initials they are placed at the top of the list. 
 
 ![zHigh scores 1 score](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/9c2a8acb-a101-43d8-b7ed-ba530ecdf63c)
 ![zHigh score 2 scores](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/0b691b4d-48dd-4202-ad78-f6f13f5087cf)
