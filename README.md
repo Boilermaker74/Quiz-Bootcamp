@@ -25,7 +25,8 @@ The player is penalized 10 seconds off the timer for every incorrect response. T
 At the bottom of the answers in the footer is the displayed correction to the response, either wrong or correct.
 
 ![zwrong](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/2892468d-b656-453c-8de7-49adfa8d74d0)
-![zcorrect (3)](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/6ba269d6-68ae-4cce-920b-3b8374ea8f92)
+
+![zcorrect](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/57514608-a626-46e2-a499-85f40ee56d39)
 
 The footer with the wrong or correct response to the user’s response stays visible until the user removes the pointer from an answer button and returns the pointer back to the answer button.
 
