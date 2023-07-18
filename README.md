@@ -42,7 +42,7 @@ If the player tries to enter more or less then 2 symbols for their initials, the
 
 ![z3 initials](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/f9b00d37-01d5-4e4f-8199-fc01ec592457)
 
-Once user enters their initials a high score list is generated and each time a user enters your initials they are placed at the top of the list. 
+Once player enters their initials a high score list is generated and each time a player enters your initials they are placed at the top of the list. 
 
 ![zHigh scores 1 score](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/9c2a8acb-a101-43d8-b7ed-ba530ecdf63c)
 ![zHigh score 2 scores](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/0b691b4d-48dd-4202-ad78-f6f13f5087cf)
@@ -50,7 +50,7 @@ Once user enters their initials a high score list is generated and each time a u
 The High score list is limited to 10 players. If the high score list has more than 10 players and the player enters their initials, the last player is removed from the list and the new player is placed at the top and the list remains with 10 players until the list is cleared.
 
 ![zfulllist 1](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/3d87b899-d146-47ad-9265-bcdc6e234348)
-![zfulllist 2](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e6e00505-b32e-44ad-b5fe-86f8c99a7f02)
+![zfulllist 2](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/346a7d89-4fff-4180-9b1b-a09d9c713f26)
 ![zfulllist 3](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/8b3829a7-3bd4-4d48-830a-b0b47300956e)
 
 The players initials and scores are saved in local storage under the values dogshow and scoreshow because I couldn't think of a better name.
