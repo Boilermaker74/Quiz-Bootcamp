@@ -36,7 +36,9 @@ When the player completes the quiz, the quiz displays the message all done, disp
 
 ![zGame over screen time over](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e4e9c1d2-2809-43a3-90d9-d8aac20374d3)
 
-If the user tries to enter more or less then 2 symbols for their initials, the quiz responds with a  message telling the user to enter only two initials and displays the initials the user tried to enter.
+
+If the player tries to enter more or less then 2 symbols for their initials, the quiz responds with a  message telling the user to enter only two initials and displays the initials the user tried to enter.
+
 
 ![z3 initials](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/f9b00d37-01d5-4e4f-8199-fc01ec592457)
 
