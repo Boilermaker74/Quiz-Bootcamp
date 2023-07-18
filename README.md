@@ -28,11 +28,11 @@ At the bottom of the answers in the footer is the displayed correction to the re
 
 ![zcorrect](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/57514608-a626-46e2-a499-85f40ee56d39)
 
-The footer with the wrong or correct response to the user’s response stays visible until the user removes the pointer from an answer button and returns the pointer back to the answer button.
+The footer with the "wrong or correct" response to the players’s answer stays visible until the user removes the pointer from an answer button and returns the pointer back to the answer button.
 
 When the timer expires the header displays game over.   Added an if statement so the timer can never drop below zero.
 
-When the player completes the quiz, the quiz displays the message all done and displays the final score and provides a form box for the user to enter their initials.
+When the player completes the quiz, the quiz displays the message all done, displays the final score and provides a form box for the user to enter their initials.
 
 ![zGame over screen time over](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e4e9c1d2-2809-43a3-90d9-d8aac20374d3)
 
