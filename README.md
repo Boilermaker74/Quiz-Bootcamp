@@ -61,7 +61,6 @@ All buttons change color when they are hovered over.
 
 Before Hover:
 
-[Before Hover:](https://boilermaker74.github.io/)
 
 ![zhoveroff](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/e1691c26-9b2b-40af-87ff-43b54f355a0c)
 
