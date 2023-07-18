@@ -11,14 +11,10 @@ This is the Start Screen of the quiz.
 
 These are the five qustions with the corresponding answer cards
 
-![zQuestion 3](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/48afce03-572f-460f-ad5f-2294f7eeb9b4)
-![zQuestion 2](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/fa19bb78-8309-4f95-bdfc-0e2e7821bab1)
 ![zQuestion 1](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/614519ed-03dc-4462-9a09-15ad2e67767d)
-
-![Uploading zQuestion 2.png…]()
-
-![Uploading zQuestion 4.png…]()
-
+![zQuestion 2](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/fa19bb78-8309-4f95-bdfc-0e2e7821bab1)
+![zQuestion 3](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/48afce03-572f-460f-ad5f-2294f7eeb9b4)
+![zQuestion 4](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/53f4e29a-7f25-4fd1-b948-ba96a94534e2)
 ![zQuestion 5](https://github.com/Boilermaker74/Quiz-Bootcamp/assets/135560995/12ec8d29-2ed3-4a5e-a60f-3da575ca7d2b)
 
  If the time reaches zero or the player answers all the questions, a final score is displayed and the user is allowed the option of adding their initials to the final score list. 
